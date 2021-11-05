@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuncionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-05T20:58:41" hostname="DESKTOP-UGK7ALF" time="0.136">
+  <properties/>
+  <testcase name="fibbonaciTestNegative()" classname="FuncionTest" time="0.098"/>
+  <testcase name="fibbonaciTestTrue()" classname="FuncionTest" time="0.01"/>
+  <testcase name="sumaPrimosTest()" classname="FuncionTest" time="0.007"/>
+  <testcase name="cantCaracteresTest()" classname="FuncionTest" time="0.003"/>
+  <testcase name="fibbonaciTestFalse()" classname="FuncionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
