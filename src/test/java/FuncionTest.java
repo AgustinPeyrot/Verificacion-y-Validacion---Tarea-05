@@ -11,17 +11,17 @@ public class FuncionTest {
     @Test
     public void fibbonaciTestFalse(){
         boolean result = fun.isFibbonaci(20);
-        assertFalse(false);
+        assertFalse(result);
     }
     @Test
     public void fibbonaciTestTrue(){
         boolean result = fun.isFibbonaci(55);
-        assertTrue(true);
+        assertTrue(result);
     }
     @Test
     public void fibbonaciTestNegative(){
         boolean result = fun.isFibbonaci(-5);
-        assertFalse(false);
+        assertFalse(result);
     }
 
     @Test
