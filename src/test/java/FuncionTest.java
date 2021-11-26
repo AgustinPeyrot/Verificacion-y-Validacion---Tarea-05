@@ -27,7 +27,7 @@ public class FuncionTest {
     @Test
     public void cantCaracteresTest(){
         int result = fun.cantCaracteres("La cantidad de caracteres 'a' en este texto se repite 6 veces",'a');
-        assertEquals(result,6);
+        assertEquals(result,10);
     }
 
     @Test
