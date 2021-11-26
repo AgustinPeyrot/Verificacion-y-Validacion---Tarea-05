@@ -1,4 +1,5 @@
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.TestTemplate;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -26,7 +27,7 @@ public class FuncionTest {
     @Test
     public void cantCaracteresTest(){
         int result = fun.cantCaracteres("La cantidad de caracteres 'a' en este texto se repite 6 veces",'a');
-        assertEquals(result,10);
+        assertEquals(result,6);
     }
 
     @Test
