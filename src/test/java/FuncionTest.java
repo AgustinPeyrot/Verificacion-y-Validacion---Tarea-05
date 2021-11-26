@@ -15,7 +15,7 @@ public class FuncionTest {
     }
     @Test
     public void fibbonaciTestTrue(){
-        boolean result = fun.isFibbonaci(55);
+        boolean result = fun.isFibbonaci(54);
         assertTrue(result);
     }
     @Test
